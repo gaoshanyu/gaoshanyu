@@ -1,4 +1,4 @@
-### Hi there 👋 I'm gaoshanyu, you can call me Raniys.Liao too, Raniys is my English name
+### Hi there 👋 I'm gaoshanyu, Raniys is my English name
 ---
 
 - 🔭 I’m currently working on Agile process of software development(Scrum and XP)
