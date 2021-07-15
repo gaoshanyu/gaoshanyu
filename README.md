@@ -11,12 +11,14 @@
 
 ## 🔧 Technologies & Tools
 ![GIT](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GITHUB](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![PYCHARM](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![mac](https://img.shields.io/badge/macos-FCC624?style=for-the-badge&logo=macos&logoColor=white&labelColor=black&color=black)
 ![VScode](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-F43737?style=for-the-badge&logo=swift&logoColor=white&labelColor=red&color=gray)
+![Flutter](https://img.shields.io/badge/Flutter-F43737?style=for-the-badge&logo=flutter&logoColor=blue&labelColor=white&color=black)
 
 
 ### 🏆 GitHub Stats:
