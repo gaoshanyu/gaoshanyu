@@ -17,8 +17,8 @@
 ![VScode](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Swift](https://img.shields.io/badge/Swift-F43737?style=for-the-badge&logo=swift&logoColor=white&labelColor=red&color=gray)
-![Flutter](https://img.shields.io/badge/Flutter-F43737?style=for-the-badge&logo=flutter&logoColor=blue&labelColor=white&color=black)
+![Swift](https://img.shields.io/badge/Swift-F43737?style=for-the-badge&logo=swift&logoColor=white&labelColor=red&color=red)
+![Flutter](https://img.shields.io/badge/Flutter-F43737?style=for-the-badge&logo=flutter&logoColor=blue&labelColor=black&color=black)
 
 
 ### 🏆 GitHub Stats:
